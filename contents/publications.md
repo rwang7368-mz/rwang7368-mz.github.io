@@ -1,16 +1,19 @@
-#### Submitted
-
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
-
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>Rui Wang</strong>, Mijian Li, and Lianzhou Wang* (2025). Super-resolution reconstruction and prediction of flow fields based on deep learning and modal decomposition. <strong>Physics of Fluids</strong>, 37, 015102. <strong>SCI Q1, IF: 4.3, Editor's Pick</strong>. [[Paper]](https://doi.org/10.1063/5.0246217)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>Rui Wang</strong>, Lianzhou Wang*, Shuo Cheng, Jing Ye, and Linyang Zhu (2025). Efficient propeller wake prediction model: Transformer-SMFANet and its application. <strong>AIAA Journal</strong>, 63, 5476-5490. <strong>SCI Q2, IF: 2.8</strong>. [[Paper]](https://doi.org/10.2514/1.J065581)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- <strong>Rui Wang</strong>, Haoyu Lei, Cong Sun, Lianzhou Wang*, and Xinyu Liu (2026). HMSRNet: Super-resolution of turbulent flows using a hybrid network and composite loss formulation. <strong>European Journal of Mechanics - B/Fluids</strong>, 204493. <strong>SCI Q2, IF: 2.5</strong>. [[Paper]](https://doi.org/10.1016/j.euromechflu.2026.204493)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- Mijian Li, <strong>Rui Wang</strong>, Zebei Luan, Zhihan Zhang, and Lianzhou Wang* (2026). Wake characterization and acoustic signature of an axial-flow turbine. <strong>Computers & Fluids</strong>, 313, 107072. <strong>SCI Q2, IF: 3.0</strong>. [[Paper]](https://doi.org/10.1016/j.compfluid.2026.107072)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- Mijian Li, <strong>Rui Wang</strong>, Xinyu Guo, Xinyu Liu, and Lianzhou Wang* (2024). Analysis of inflow conditions on the flow past a wall-mounted square cylinder with OpenFOAM. <strong>Computers & Fluids</strong>, 269, 106120. <strong>SCI Q2, IF: 3.0</strong>. [[Paper]](https://doi.org/10.1016/j.compfluid.2023.106120)
 
+#### Working Papers
+
+- <strong>Rui Wang</strong>, Zebei Luan, Haoyu Lei, Zhihan Zhang, and Lianzhou Wang*. Bidirectional Mamba with Adaptive Feature Modulators for Turbulent Flow Forecasting. Submitted to <strong>International Journal of Heat and Fluid Flow</strong>, <strong>under review</strong>.
+
+- Haoyu Lei, <strong>Rui Wang</strong>, and Lianzhou Wang*. Structure-aware U-Net for deep-learning super-resolution reconstruction of turbulent flows. Submitted to <strong>AIAA Journal</strong>, <strong>under review</strong>.
+
+- Zhouji Zhang, Lianzhou Wang*, <strong>Rui Wang</strong>, and Xinyu Liu. Research on flow-induced vibration and energy harvesting of 3D thin flexible plates based on the unsteady vortex lattice method. Submitted to <strong>Journal of Sound and Vibration</strong>, <strong>accepted</strong>.

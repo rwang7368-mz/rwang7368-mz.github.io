@@ -54,6 +54,78 @@ section .main-body{
     line-height: 2.4rem;
 }
 
+.education-list {
+    display: grid;
+    gap: 1rem;
+    margin: 0.5rem 0 1.4rem;
+}
+
+.education-item {
+    display: grid;
+    grid-template-columns: 9rem minmax(0, 1fr);
+    column-gap: 1.5rem;
+    align-items: start;
+}
+
+.education-meta {
+    color: var(--bs-gray-700);
+    font-weight: 500;
+    line-height: 1.6rem;
+    white-space: nowrap;
+}
+
+.education-meta span {
+    font-size: 0.95rem;
+    color: var(--bs-gray-600);
+}
+
+.education-detail {
+    line-height: 1.8rem;
+}
+
+@media screen and (max-width: 576px) {
+    .education-item {
+        grid-template-columns: 1fr;
+        row-gap: 0.15rem;
+    }
+}
+
+.awards-list {
+    display: grid;
+    gap: 1.1rem;
+    margin-top: 0.4rem;
+}
+
+.award-item {
+    position: relative;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 4.5rem;
+    column-gap: 1.5rem;
+    align-items: start;
+}
+
+.award-item::before {
+    content: "\2022";
+    grid-column: 1;
+    position: absolute;
+}
+
+.award-title {
+    padding-left: 1.4rem;
+}
+
+.award-year {
+    text-align: right;
+    white-space: nowrap;
+}
+
+@media screen and (max-width: 576px) {
+    .award-item {
+        grid-template-columns: minmax(0, 1fr) 4rem;
+        column-gap: 0.8rem;
+    }
+}
+
 
 .bg-gradient-primary-to-secondary-light {
     background: linear-gradient(45deg, #fcfcfc, #ffffff) !important;

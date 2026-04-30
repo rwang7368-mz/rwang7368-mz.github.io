@@ -1,11 +1,11 @@
 
->  # **NOTE:** This repository is NOT a template.
+# Rui Wang's Homepage
 
+Personal academic homepage for Rui Wang.
 
-## Want to build your own?
-Please use the open-source template available here: **[senli1073/academic-homepage-template](https://github.com/senli1073/academic-homepage-template)**. It includes documentation and is ready for you to customize.
+Built from the open-source academic homepage template by Sen Li.
 
 
 ## License
 
-Copyright Sen Li, 2023-2026. Licensed under an MIT license.
+Copyright Rui Wang, 2026. Licensed under an MIT license.

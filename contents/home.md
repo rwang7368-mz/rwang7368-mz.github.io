@@ -1,17 +1,34 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![rwang7368-mz](https://img.shields.io/badge/rwang7368--mz-github-blue?logo=github)](https://github.com/rwang7368-mz)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a postgraduate student at Southwest Jiaotong University (SWJTU).
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: Rui Wang [at] wr2002@my.swjtu.edu.cn
+
+Links: [ORCID](https://orcid.org/0009-0000-3858-3406) | [ResearchGate](https://www.researchgate.net/profile/Rui-Wang-528)
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+
+<div class="education-list">
+  <div class="education-item">
+    <div class="education-meta">2024-2027<br><span>Expected</span></div>
+    <div class="education-detail">
+      <strong>M.Eng. in Mechanics</strong><br>
+      Computational Fluid Dynamics, Southwest Jiaotong University (SWJTU)
+    </div>
+  </div>
+  <div class="education-item">
+    <div class="education-meta">2020-2024</div>
+    <div class="education-detail">
+      <strong>B.Eng. in Engineering Mechanics</strong><br>
+      Training Program of Top Class in Mechanics, Southwest Jiaotong University (SWJTU)
+    </div>
+  </div>
+</div>
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Data-driven turbulence modeling; Super-resolution reconstruction of turbulence; Data-driven prediction of turbulence
 
