@@ -1,6 +1,6 @@
 <div class="awards-list">
   <div class="award-item">
-    <div class="award-title">National Scholarship (Highest Honor; Top 1% Awarded; Ranked 2nd/276)</div>
+    <div class="award-title">National Scholarship (Highest Honor; Top 3% Awarded; Ranked 2nd/276)</div>
     <div class="award-year">2025</div>
   </div>
   <div class="award-item">
