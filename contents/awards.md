@@ -9,7 +9,7 @@
   </div>
   <div class="award-item">
     <div class="award-title">Outstanding Postgraduate Student (Top 3% Awarded)</div>
-    <div class="award-year">2025</div>
+    <div class="award-year">2025</div>  
   </div>
   <div class="award-item">
     <div class="award-title">First Prize Scholarship (Ranked 11th/97)</div>
