@@ -10,7 +10,7 @@
 
 - Mijian Li, <strong>Rui Wang</strong>, Xinyu Guo, Xinyu Liu, and Lianzhou Wang* (2024). Analysis of inflow conditions on the flow past a wall-mounted square cylinder with OpenFOAM. <strong>Computers & Fluids</strong>, 269, 106120. <strong>SCI Q2, IF: 3.0</strong>. [[Paper]](https://doi.org/10.1016/j.compfluid.2023.106120)
 
-- Zhouji Zhang, Lianzhou Wang*, <strong>Rui Wang</strong>, and Xinyu Liu (2026). Research on flow-induced vibration and energy harvesting of 3D thin flexible plates based on the unsteady vortex lattice method. <strong>Journal of Sound and Vibration</strong>, 638, 119819. <strong>SCI Q1, IF: 4.9</strong>. [Paper](https://doi.org/10.1016/j.jsv.2026.119819)
+- Zhouji Zhang, Lianzhou Wang*, <strong>Rui Wang</strong>, and Xinyu Liu (2026). Research on flow-induced vibration and energy harvesting of 3D thin flexible plates based on the unsteady vortex lattice method. <strong>Journal of Sound and Vibration</strong>, 638, 119819. <strong>SCI Q1, IF: 4.9</strong>. [[Paper]](https://doi.org/10.1016/j.jsv.2026.119819)
 
 #### Working Papers
 
